@@ -1,3 +1,4 @@
-0x11. C - printf
-
-
+# Creating Printf Function
+### collaborators
+* Sammy IYEBHORA --Sammykingx
+* Timmy ADEYEMI --TimmyPR
